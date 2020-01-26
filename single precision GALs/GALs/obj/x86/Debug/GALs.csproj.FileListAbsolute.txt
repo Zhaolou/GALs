@@ -1,0 +1,40 @@
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\bin\Debug\GALs.exe
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\bin\Debug\GALs.pdb
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.Form1.resources
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.Properties.Resources.resources
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.csproj.GenerateResource.Cache
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.exe
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.pdb
+F:\文章\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.csprojResolveAssemblyReference.cache
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.exe
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.pdb
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\bin\Debug\GALs.exe
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\bin\Debug\GALs.pdb
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.csprojResolveAssemblyReference.cache
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.Form1.resources
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.Properties.Resources.resources
+E:\Science\论文\GPU加速片光计算\GALs for GPU\GALs\GALs\obj\x86\Debug\GALs.csproj.GenerateResource.Cache
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.exe
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.pdb
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.csprojResolveAssemblyReference.cache
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.Form1.resources
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.Properties.Resources.resources
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\obj\x86\Debug\GALs.csproj.GenerateResource.Cache
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\bin\Debug\GALs.exe
+F:\paper\GPU Gaussian Mie Scattering\single precision GALs\GALs\bin\Debug\GALs.pdb
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.exe
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.pdb
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\bin\Debug\GALs.exe
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\bin\Debug\GALs.pdb
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.Form1.resources
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.Properties.Resources.resources
+C:\Users\Administrator\Desktop\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.csproj.GenerateResource.Cache
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.exe
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.pdb
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\bin\Debug\GALs.exe
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\bin\Debug\GALs.pdb
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.csprojResolveAssemblyReference.cache
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.Form1.resources
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.Properties.Resources.resources
+G:\Paper\GPU light sheet scattering\single precision GALs\single precision GALs\GALs\obj\x86\Debug\GALs.csproj.GenerateResource.Cache
